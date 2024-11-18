@@ -8,5 +8,5 @@ This project demonstrates how to create a 3D scene using Three.js, including a r
 
 1. Clone the repository:
 
-Done during boredom/n
+Done during boredom<br>
 Amaljith
